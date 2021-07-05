@@ -1,16 +1,13 @@
 # eigital_exam
 
-A new Flutter application.
+Eigital Exam
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Note:
+Facebook login is only working using my own account.
+In order to make the login via facebook work in any account, facebook required to make the app live in the facebook console and to make it live, it's require to have a Privacy Policy Url  and a User Data Deletion url 
+which I don't have since this only a demo project.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You also required to used a real device in testing the functionality of the map.
+Because some google api doesn't work using emulator or simulator.
