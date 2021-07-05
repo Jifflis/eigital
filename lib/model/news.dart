@@ -20,12 +20,12 @@ class News extends BaseModel {
 
   @override
   void fromJson(Map<String, dynamic> json) {
-    type = json['_type'];
-    name = json['name'];
-    url = json['url'];
-    description = json['description'];
-    datePublished = json['datePublished'];
-    image = json['image']?['thumbnail']?['contentUrl'];
+    type = json['_type']??'';
+    name = json['name']??'';
+    url = json['url']??'';
+    description = json['description']??'';
+    datePublished = json['datePublished']??'';
+    image = json['image']?['thumbnail']?['contentUrl']??'';
   }
 
   @override
