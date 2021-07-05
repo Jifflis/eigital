@@ -1,6 +1,6 @@
-# eigital_exam
+# eigital
 
-Eigital Exam
+Eigital
 
 ## Flutter version
 Channel stable, 2.2.1
