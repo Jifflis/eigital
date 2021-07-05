@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/sakayta/eigital_exam/BuildConfig.java
+ com.sakayta.eigital_exam.BuildConfig

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644616444118",
+    "project_id": "eigitalexam",
+    "storage_bucket": "eigitalexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644616444118:android:525db8330bc5933a1e5177",
+        "android_client_info": {
+          "package_name": "com.sakayta.eigital_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644616444118-jd4sbiq16mh7leifojgjv0jphn3cifi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakayta.eigital_exam",
+            "certificate_hash": "b681e11a14418dbd3dea8bc7b6e5b3da40c7a2c2"
+          }
+        },
+        {
+          "client_id": "644616444118-frod6afbt40mfv61v838vlmlc2nvn32n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsr0sqvh6u5-ncUfc6XowAtLfu8ze481g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644616444118-frod6afbt40mfv61v838vlmlc2nvn32n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
